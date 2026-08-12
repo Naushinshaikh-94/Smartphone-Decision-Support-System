@@ -201,7 +201,7 @@ These files allow `app.py` to make predictions without retraining the models eve
 
 ---
 
-## ⚠️ Important Note
+##  Important Note
 
 The project uses KaggleHub to download the dataset during training.
 
@@ -213,7 +213,7 @@ These files are excluded through `.gitignore`.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Possible future improvements include:
 
@@ -226,7 +226,7 @@ Possible future improvements include:
 
 ---
 
-## 👩‍💻 Project
+##  Project
 
 **AI-Based Smartphone Decision Support System**
 
